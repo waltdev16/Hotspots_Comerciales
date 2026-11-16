@@ -1,0 +1,31 @@
+﻿osm_id,name,category,brand,street,latitude,longitude,municipality,estado,motivo,fuente_verificacion,x_m,y_m,zona,usado_entrenamiento,detalle_dataset
+way/140081410,General de Equipos (CAT),car,,,13.6877732,-89.2293237,,pendiente_revision,Maquinaria CAT: verificar venta de automóviles,,258877.72428910912,1514306.4395273703,,False,Revisión comercial pendiente
+way/374904202,Trans-Auto Navarra,car,,,13.6753727,-89.2062198,,sin_alerta,,,261365.2334612964,1512911.2216711978,Zona 2,True,Incluido
+way/378182134,Excel Automotriz (BMW),car,,Paseo General Escalón,13.702069,-89.2355299,San Salvador,sin_alerta,,,258220.78323878665,1515894.7159582272,Zona 1,True,Incluido
+way/379809036,CrediQ,car,CrediQ,Boulevard Los Próceres,13.682898,-89.2263219,San Salvador,pendiente_revision,CrediQ: verificar que esta sede venda vehículos y no solo financie,,259197.58094260775,1513763.926189678,,False,Revisión comercial pendiente
+way/395681945,Grupo Q,car,,,13.6846321,-89.2224552,,sin_alerta,,,259617.7588208983,1513951.9886749072,Zona 2,True,Incluido
+way/395681946,Chrysler/Jeep/Dodge,car,,,13.684569,-89.2223424,,sin_alerta,,,259629.900706348,1513944.8935473862,Zona 2,True,Incluido
+way/395681947,Nissan,car,,,13.6846841,-89.2227629,,sin_alerta,,,259584.51569388114,1513958.0490626595,Zona 2,True,Incluido
+way/396080830,Grupo Q Usados,car,,Avenida Las Amapolas,13.6857066,-89.2232978,,sin_alerta,,,259527.6739577613,1514071.7373061827,Zona 2,True,Incluido
+way/396970466,Total Auto Service,car,,Bulevar Constitución,13.7169056,-89.2226605,,excluido_confirmado,"Taller de mantenimiento y reparación, no concesionario",Verificación manual del equipo en Google Maps,259628.37651842556,1517523.7961125784,,False,Excluido por actividad verificada
+way/398413970,Excel Usados,car,,,13.7040227,-89.2176759,,sin_alerta,,,260154.5955973793,1516093.1328661852,Zona 1,True,Incluido
+way/398429634,Taller Excel Automotriz,car,,Calle Francisco Lucas,13.7050052,-89.2170138,,pendiente_revision,Taller Excel Automotriz: posible taller,,260227.23204766482,1516201.2054665836,,False,Revisión comercial pendiente
+way/399773467,Nicekar,car,,Bulevar Los Héroes,13.6986037,-89.2165868,,sin_alerta,,,260266.9380925321,1515492.3510707044,Zona 1,True,Incluido
+way/400002340,F & A Imports,car,,Bulevar Constitución,13.7107316,-89.2252677,,sin_alerta,,,259339.99756498556,1516843.1355564168,Zona 1,True,Incluido
+way/400056527,HS Import's,car,,Bulevar Constitución,13.7135011,-89.2245099,,sin_alerta,,,259424.8116949717,1517148.8726805702,Zona 1,True,Incluido
+way/400330636,CrediQ Usados Seguros,car,,Boulevard Los Próceres,13.683621,-89.2259696,,sin_alerta,,,259236.43911283987,1513843.5877635397,Zona 2,True,Incluido
+way/400832495,Grupo Los Tres,car,,Calle La Reforma,13.6935794,-89.2303711,,sin_alerta,,,258770.31010525624,1514950.0396782418,Zona 2,True,Incluido
+way/476562122,Kia Motors,car,Kia,,13.7044948,-89.2176258,,sin_alerta,,,260160.4957308359,1516145.3287621744,Zona 1,True,Incluido
+way/688104381,Excel Automotriz Los Heroes,car,,Boulevard de Los Héroes,13.7049533,-89.2157426,,sin_alerta,,,260364.72253302397,1516194.2006726156,Zona 1,True,Incluido
+way/1160594068,Torres Imports,car,,Carretera a Quezaltepeque,13.8044329,-89.2380456,Nejapa,sin_alerta,,,258053.83465863884,1527225.6614948183,,False,Fuera de núcleo 5 km
+node/1532043927,Usados Seguros GEVESA,car,,,13.6833708,-89.2273539,,sin_alerta,,,259086.38935112,1513817.2767195806,Zona 2,True,Incluido
+node/1532055324,Grupo Q,car,,,13.6851975,-89.2228293,,sin_alerta,,,259577.85235237304,1514014.9312970852,Zona 2,True,Incluido
+node/1535514013,ASESUISA,car,,,13.6947718,-89.2300957,,pendiente_revision,ASESUISA: posible aseguradora,,258801.3264922469,1515081.7245135235,,False,Revisión comercial pendiente
+node/1547633661,Hyundai,car,Hyundai,Boulevard Los Próceres,13.6826796,-89.2268373,San Salvador,sin_alerta,,,259141.58706044845,1513740.269484115,Zona 2,True,Incluido
+node/1547633667,Renault,car,,,13.6846342,-89.2226129,,sin_alerta,,,259600.69636518997,1513952.3777560715,Zona 2,True,Incluido
+node/4272635495,Yamaha Roosevelt,car,,,13.7004471,-89.2166565,,pendiente_revision,Yamaha Roosevelt: verificar si vende automóviles o motocicletas,,260261.26650099253,1515696.4225359391,,False,Revisión comercial pendiente
+node/4594501891,TNT EXPRESS S.A DE C.V,car,,Boulevard Altamira,13.6823801,-89.2188128,,pendiente_revision,TNT EXPRESS: posible servicio de logística,,260009.61528965534,1513699.1522526303,,False,Revisión comercial pendiente
+node/6049010039,Isuzu,car,Isuzu,Pasaje 1,13.6822102,-89.2270022,San Salvador,sin_alerta,,,259123.26532469701,1513688.4865757795,Zona 2,True,Incluido
+node/10972943562,Autolote Vaquerano Import,car,,,13.7230108,-89.2351558,,sin_alerta,,,258282.70463092206,1518211.9221474214,Zona 1,True,Incluido
+node/13342256301,Mercedes-Benz El Salvador,car,,Paseo General Escalón,13.7014762,-89.2288269,,sin_alerta,,,258945.45530372876,1515822.4159266257,Zona 1,True,Incluido
+node/14136310050,Importación de Vehículos Jony,car,,,13.7067706,-89.1451014,,sin_alerta,,,268009.6836494015,1516326.3598407225,,False,Fuera de núcleo 5 km

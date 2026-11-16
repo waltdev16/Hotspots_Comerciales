@@ -1,0 +1,594 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-11-09T18:02:18Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/140081410",
+      "properties": {
+        "@id": "way/140081410",
+        "name": "General de Equipos (CAT)",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2293237,
+          13.6877732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/374904202",
+      "properties": {
+        "@id": "way/374904202",
+        "name": "Trans-Auto Navarra",
+        "shop": "car",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2062198,
+          13.6753727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/378182134",
+      "properties": {
+        "@id": "way/378182134",
+        "addr:city": "San Salvador",
+        "addr:street": "Paseo General Escalón",
+        "building": "yes",
+        "name": "Excel Automotriz (BMW)",
+        "shop": "car",
+        "source": "KG Ground Survey 2015",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2355299,
+          13.702069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/379809036",
+      "properties": {
+        "@id": "way/379809036",
+        "addr:city": "San Salvador",
+        "addr:street": "Boulevard Los Próceres",
+        "brand": "CrediQ",
+        "building": "commercial",
+        "name": "CrediQ",
+        "operator": "CrediQ",
+        "shop": "car",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2263219,
+          13.682898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/395681945",
+      "properties": {
+        "@id": "way/395681945",
+        "name": "Grupo Q",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2224552,
+          13.6846321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/395681946",
+      "properties": {
+        "@id": "way/395681946",
+        "building": "yes",
+        "name": "Chrysler/Jeep/Dodge",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2223424,
+          13.684569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/395681947",
+      "properties": {
+        "@id": "way/395681947",
+        "building": "yes",
+        "name": "Nissan",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2227629,
+          13.6846841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396080830",
+      "properties": {
+        "@id": "way/396080830",
+        "addr:street": "Avenida Las Amapolas",
+        "building": "yes",
+        "name": "Grupo Q Usados",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2232978,
+          13.6857066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/396970466",
+      "properties": {
+        "@id": "way/396970466",
+        "addr:street": "Bulevar Constitución",
+        "building": "yes",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2226605,
+          13.7169056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398413970",
+      "properties": {
+        "@id": "way/398413970",
+        "building": "yes",
+        "name": "Excel Usados",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2176759,
+          13.7040227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/398429634",
+      "properties": {
+        "@id": "way/398429634",
+        "addr:street": "Calle Francisco Lucas",
+        "building": "yes",
+        "name": "Taller Excel Automotriz",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2170138,
+          13.7050052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/399773467",
+      "properties": {
+        "@id": "way/399773467",
+        "addr:street": "Bulevar Los Héroes",
+        "building": "yes",
+        "name": "Nicekar",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2165868,
+          13.6986037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400002340",
+      "properties": {
+        "@id": "way/400002340",
+        "addr:street": "Bulevar Constitución",
+        "building": "yes",
+        "name": "F & A Imports",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2252677,
+          13.7107316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400056527",
+      "properties": {
+        "@id": "way/400056527",
+        "addr:street": "Bulevar Constitución",
+        "building": "yes",
+        "name": "HS Import's",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2245099,
+          13.7135011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400330636",
+      "properties": {
+        "@id": "way/400330636",
+        "addr:street": "Boulevard Los Próceres",
+        "building": "yes",
+        "name": "CrediQ Usados Seguros",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2259696,
+          13.683621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/400832495",
+      "properties": {
+        "@id": "way/400832495",
+        "addr:street": "Calle La Reforma",
+        "building": "yes",
+        "name": "Grupo Los Tres",
+        "shop": "car",
+        "source": "KG Ground Survey 2016",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2303711,
+          13.6935794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/476562122",
+      "properties": {
+        "@id": "way/476562122",
+        "brand": "Kia",
+        "brand:wikidata": "Q35349",
+        "building": "yes",
+        "name": "Kia Motors",
+        "service:vehicle:diagnostics": "yes",
+        "service:vehicle:new_car_sales": "yes",
+        "service:vehicle:used_car_sales": "yes",
+        "shop": "car",
+        "source": "local knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2176258,
+          13.7044948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/688104381",
+      "properties": {
+        "@id": "way/688104381",
+        "addr:street": "Boulevard de Los Héroes",
+        "name": "Excel Automotriz Los Heroes",
+        "operator": "HINO TOYOTA",
+        "shop": "car",
+        "source": "local knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2157426,
+          13.7049533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1160594068",
+      "properties": {
+        "@id": "way/1160594068",
+        "addr:city": "Nejapa",
+        "addr:street": "Carretera a Quezaltepeque",
+        "name": "Torres Imports",
+        "opening_hours": "Mo 08:00-15:30;Tu-Fr 08:00-17:00;Sa 08:00-12:00;Su off",
+        "second_hand": "only",
+        "service:vehicle:used_car_sales": "yes",
+        "shop": "car",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2380456,
+          13.8044329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1532043927",
+      "properties": {
+        "@id": "node/1532043927",
+        "name": "Usados Seguros GEVESA",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2273539,
+          13.6833708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1532055324",
+      "properties": {
+        "@id": "node/1532055324",
+        "name": "Grupo Q",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2228293,
+          13.6851975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1535514013",
+      "properties": {
+        "@id": "node/1535514013",
+        "name": "ASESUISA",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2300957,
+          13.6947718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1547633661",
+      "properties": {
+        "@id": "node/1547633661",
+        "addr:city": "San Salvador",
+        "addr:street": "Boulevard Los Próceres",
+        "brand": "Hyundai",
+        "brand:wikidata": "Q55931",
+        "name": "Hyundai",
+        "opening_hours": "Mo-Fr 08:00-17:00; 08:00-16:00; Su 10:00-16:00",
+        "operator": "GrupoQ",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "second_hand": "no",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2268373,
+          13.6826796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1547633667",
+      "properties": {
+        "@id": "node/1547633667",
+        "name": "Renault",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2226129,
+          13.6846342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4272635495",
+      "properties": {
+        "@id": "node/4272635495",
+        "name": "Yamaha Roosevelt",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2166565,
+          13.7004471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4594501891",
+      "properties": {
+        "@id": "node/4594501891",
+        "addr:housenumber": "#2",
+        "addr:street": "Boulevard Altamira",
+        "internet_access": "wlan",
+        "name": "TNT EXPRESS S.A DE C.V",
+        "name:es": "TNT EXPRESS S.A DE C.V",
+        "opening_hours": "24/7",
+        "phone": "25150530",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2188128,
+          13.6823801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6049010039",
+      "properties": {
+        "@id": "node/6049010039",
+        "addr:city": "San Salvador",
+        "addr:street": "Pasaje 1",
+        "brand": "Isuzu",
+        "brand:wikidata": "Q29803",
+        "name": "Isuzu",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00; Su off",
+        "operator": "GrupoQ",
+        "phone": "+503 2248 6400",
+        "second_hand": "no",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2270022,
+          13.6822102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/10972943562",
+      "properties": {
+        "@id": "node/10972943562",
+        "name": "Autolote Vaquerano Import",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2351558,
+          13.7230108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13342256301",
+      "properties": {
+        "@id": "node/13342256301",
+        "addr:housenumber": "114",
+        "addr:postcode": "1102",
+        "addr:street": "Paseo General Escalón",
+        "contact:instagram": "mercedesbenselsalvador",
+        "name": "Mercedes-Benz El Salvador",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+        "phone": "+503250010007",
+        "shop": "car",
+        "website": "https://mercedes-benz.com.sv/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2288269,
+          13.7014762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14136310050",
+      "properties": {
+        "@id": "node/14136310050",
+        "name": "Importación de Vehículos Jony",
+        "second_hand": "only",
+        "shop": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1451014,
+          13.7067706
+        ]
+      }
+    }
+  ]
+}

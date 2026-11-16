@@ -1,0 +1,131 @@
+{
+  "fuente": "OpenStreetMap vía Overpass Turbo",
+  "fecha_extraccion": "2026-11-09T18:02:18Z",
+  "registros_geojson": 30,
+  "registros_leidos": 30,
+  "sin_geometria": 0,
+  "registros_validos": 30,
+  "invalidos_o_duplicados": 0,
+  "fecha_calculo": "2026-11-15T00:17:37+00:00",
+  "excluidos_confirmados": [
+    {
+      "osm_id": "way/396970466",
+      "name": "Total Auto Service",
+      "motivo": "Taller de mantenimiento y reparación, no concesionario"
+    }
+  ],
+  "pendientes_revision": 6,
+  "incluye_registros_dudosos": false,
+  "registros_entrenamiento": 21,
+  "perifericos_elegibles": 2,
+  "umbral_nucleo_m": 5000,
+  "semilla": 42,
+  "kmeans_k": 2,
+  "silhouette_elegido": 0.5938836386668161,
+  "criterio_k": "Mayor silhouette entre k con al menos 3 establecimientos por grupo",
+  "evaluacion_kmeans": [
+    {
+      "k": 2,
+      "silhouette": 0.5938836386668161,
+      "inercia": 18078020.334618706,
+      "min_cluster_size": 9
+    },
+    {
+      "k": 3,
+      "silhouette": 0.5602801100040564,
+      "inercia": 12327342.350945272,
+      "min_cluster_size": 4
+    },
+    {
+      "k": 4,
+      "silhouette": 0.5820846522810036,
+      "inercia": 7545528.54832565,
+      "min_cluster_size": 1
+    },
+    {
+      "k": 5,
+      "silhouette": 0.6390533541468723,
+      "inercia": 3657878.1940110885,
+      "min_cluster_size": 1
+    },
+    {
+      "k": 6,
+      "silhouette": 0.6510053017127634,
+      "inercia": 1866013.7000131817,
+      "min_cluster_size": 1
+    }
+  ],
+  "centroides": [
+    {
+      "zona": "Zona 1",
+      "latitude": 13.706984926811455,
+      "longitude": -89.22410226472975,
+      "count": 9,
+      "radio_medio_m": 1014.3,
+      "radio_max_m": 2139.2
+    },
+    {
+      "zona": "Zona 2",
+      "latitude": 13.68418817752224,
+      "longitude": -89.22333780258967,
+      "count": 12,
+      "radio_medio_m": 473.0,
+      "radio_max_m": 2093.6
+    }
+  ],
+  "knn_k": 3,
+  "evaluacion_knn": [
+    {
+      "k": 1,
+      "acuerdo_loo": 0.9523809523809523
+    },
+    {
+      "k": 3,
+      "acuerdo_loo": 0.9523809523809523
+    },
+    {
+      "k": 5,
+      "acuerdo_loo": 1.0
+    },
+    {
+      "k": 7,
+      "acuerdo_loo": 1.0
+    },
+    {
+      "k": 9,
+      "acuerdo_loo": 1.0
+    }
+  ],
+  "acuerdo_loo_con_etiquetas_kmeans": 0.9523809523809523,
+  "estabilidad_knn": {
+    "A": {
+      "1": "Zona 1",
+      "3": "Zona 1",
+      "5": "Zona 1",
+      "7": "Zona 1",
+      "9": "Zona 1"
+    },
+    "B": {
+      "1": "Zona 2",
+      "3": "Zona 2",
+      "5": "Zona 2",
+      "7": "Zona 2",
+      "9": "Zona 2"
+    },
+    "C": {
+      "1": "Zona 1",
+      "3": "Zona 1",
+      "5": "Zona 1",
+      "7": "Zona 1",
+      "9": "Zona 1"
+    }
+  },
+  "advertencias": [
+    "KNN aprende etiquetas derivadas de K-Means; no predice ventas ni idoneidad comercial.",
+    "El acuerdo leave-one-out mide coherencia con K-Means, no precisión comercial.",
+    "Las etiquetas sin_alerta no significan negocios verificados.",
+    "Fuera del área de estudio KNN extrapola; el resultado se marca como no confiable.",
+    "Las distancias UTM son en línea recta; no son tiempos de desplazamiento.",
+    "El filtro de 5 km es exploratorio, no el límite administrativo de San Salvador."
+  ]
+}
