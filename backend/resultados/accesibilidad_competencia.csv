@@ -1,0 +1,64 @@
+﻿id,ubicacion,osm_id,competidor,distancia_vial_m,distancia_recta_m,distancia_snap_origen_m,distancia_snap_destino_m,estado_ruta
+A,Ubicacion A (prueba),way/374904202,Trans-Auto Navarra,3943.0,3106.8,73.4,214.0,ok
+A,Ubicacion A (prueba),way/378182134,Excel Automotriz (BMW),1937.4,1696.0,73.4,60.5,ok
+A,Ubicacion A (prueba),way/395681945,Grupo Q,2377.1,1721.4,73.4,53.8,ok
+A,Ubicacion A (prueba),way/395681946,Chrysler/Jeep/Dodge,2323.5,1726.5,73.4,43.2,ok
+A,Ubicacion A (prueba),way/395681947,Nissan,2018.4,1721.2,73.4,41.6,ok
+A,Ubicacion A (prueba),way/396080830,Grupo Q Usados,1698.5,1621.6,73.4,59.0,ok
+A,Ubicacion A (prueba),way/398413970,Excel Usados,1711.3,511.3,73.4,51.9,ok
+A,Ubicacion A (prueba),way/399773467,Nicekar,811.9,400.4,73.4,25.1,ok
+A,Ubicacion A (prueba),way/400002340,F & A Imports,1800.3,1317.4,73.4,25.9,ok
+A,Ubicacion A (prueba),way/400056527,HS Import's,2196.1,1571.9,73.4,43.5,ok
+A,Ubicacion A (prueba),way/400330636,CrediQ Usados Seguros,3642.5,1924.3,73.4,52.3,ok
+A,Ubicacion A (prueba),way/400832495,Grupo Los Tres,1472.8,1328.3,73.4,93.0,ok
+A,Ubicacion A (prueba),way/476562122,Kia Motors,1711.3,559.9,73.4,55.0,ok
+A,Ubicacion A (prueba),way/688104381,Excel Automotriz Los Heroes,1730.5,716.1,73.4,38.6,ok
+A,Ubicacion A (prueba),node/1532043927,Usados Seguros GEVESA,3506.6,2005.1,73.4,56.8,ok
+A,Ubicacion A (prueba),node/1532055324,Grupo Q,1698.5,1666.6,73.4,20.0,ok
+A,Ubicacion A (prueba),node/1547633661,Hyundai,3520.4,2054.7,73.4,35.8,ok
+A,Ubicacion A (prueba),node/1547633667,Renault,2018.4,1723.9,73.4,44.2,ok
+A,Ubicacion A (prueba),node/6049010039,Isuzu,3506.6,2109.6,73.4,79.1,ok
+A,Ubicacion A (prueba),node/10972943562,Autolote Vaquerano Import,3981.1,3029.0,73.4,24.0,ok
+A,Ubicacion A (prueba),node/13342256301,Mercedes-Benz El Salvador,1264.6,969.0,73.4,34.6,ok
+B,Ubicacion B (prueba),way/374904202,Trans-Auto Navarra,2867.9,2294.7,59.3,214.0,ok
+B,Ubicacion B (prueba),way/378182134,Excel Automotriz (BMW),3193.7,2206.1,59.3,60.5,ok
+B,Ubicacion B (prueba),way/395681945,Grupo Q,1093.1,278.4,59.3,53.8,ok
+B,Ubicacion B (prueba),way/395681946,Chrysler/Jeep/Dodge,1039.5,291.5,59.3,43.2,ok
+B,Ubicacion B (prueba),way/395681947,Nissan,492.0,244.6,59.3,41.6,ok
+B,Ubicacion B (prueba),way/396080830,Grupo Q Usados,172.0,200.1,59.3,59.0,ok
+B,Ubicacion B (prueba),way/398413970,Excel Usados,3206.0,2249.5,59.3,51.9,ok
+B,Ubicacion B (prueba),way/399773467,Nicekar,2606.5,1759.4,59.3,25.1,ok
+B,Ubicacion B (prueba),way/400002340,F & A Imports,3295.0,2847.9,59.3,25.9,ok
+B,Ubicacion B (prueba),way/400056527,HS Import's,3690.8,3154.7,59.3,43.5,ok
+B,Ubicacion B (prueba),way/400330636,CrediQ Usados Seguros,2116.0,185.2,59.3,52.3,ok
+B,Ubicacion B (prueba),way/400832495,Grupo Los Tres,1304.9,1113.3,59.3,93.0,ok
+B,Ubicacion B (prueba),way/476562122,Kia Motors,3206.0,2300.3,59.3,55.0,ok
+B,Ubicacion B (prueba),way/688104381,Excel Automotriz Los Heroes,3225.2,2424.8,59.3,38.6,ok
+B,Ubicacion B (prueba),node/1532043927,Usados Seguros GEVESA,1980.1,312.1,59.3,56.8,ok
+B,Ubicacion B (prueba),node/1532055324,Grupo Q,172.0,235.9,59.3,20.0,ok
+B,Ubicacion B (prueba),node/1547633661,Hyundai,1993.9,324.8,59.3,35.8,ok
+B,Ubicacion B (prueba),node/1547633667,Renault,492.0,261.5,59.3,44.2,ok
+B,Ubicacion B (prueba),node/6049010039,Isuzu,1980.1,377.2,59.3,79.1,ok
+B,Ubicacion B (prueba),node/10972943562,Autolote Vaquerano Import,5475.8,4347.9,59.3,24.0,ok
+B,Ubicacion B (prueba),node/13342256301,Mercedes-Benz El Salvador,2520.9,1869.9,59.3,34.6,ok
+C,Ubicacion C (prueba),way/374904202,Trans-Auto Navarra,5819.9,4633.7,33.6,214.0,ok
+C,Ubicacion C (prueba),way/378182134,Excel Automotriz (BMW),2268.8,1661.8,33.6,60.5,ok
+C,Ubicacion C (prueba),way/395681945,Grupo Q,4054.2,3151.6,33.6,53.8,ok
+C,Ubicacion C (prueba),way/395681946,Chrysler/Jeep/Dodge,4000.6,3159.6,33.6,43.2,ok
+C,Ubicacion C (prueba),way/395681947,Nissan,3695.6,3143.1,33.6,41.6,ok
+C,Ubicacion C (prueba),way/396080830,Grupo Q Usados,3375.6,3026.2,33.6,59.0,ok
+C,Ubicacion C (prueba),way/398413970,Excel Usados,1927.4,1270.9,33.6,51.9,ok
+C,Ubicacion C (prueba),way/399773467,Nicekar,2324.3,1835.0,33.6,25.1,ok
+C,Ubicacion C (prueba),way/400002340,F & A Imports,231.1,252.7,33.6,25.9,ok
+C,Ubicacion C (prueba),way/400056527,HS Import's,646.1,76.7,33.6,43.5,ok
+C,Ubicacion C (prueba),way/400330636,CrediQ Usados Seguros,5319.6,3253.1,33.6,52.3,ok
+C,Ubicacion C (prueba),way/400832495,Grupo Los Tres,2494.7,2226.5,33.6,93.0,ok
+C,Ubicacion C (prueba),way/476562122,Kia Motors,1927.4,1234.0,33.6,55.0,ok
+C,Ubicacion C (prueba),way/688104381,Excel Automotriz Los Heroes,1946.6,1340.3,33.6,38.6,ok
+C,Ubicacion C (prueba),node/1532043927,Usados Seguros GEVESA,5183.7,3289.0,33.6,56.8,ok
+C,Ubicacion C (prueba),node/1532055324,Grupo Q,3375.6,3085.9,33.6,20.0,ok
+C,Ubicacion C (prueba),node/1547633661,Hyundai,5197.5,3361.5,33.6,35.8,ok
+C,Ubicacion C (prueba),node/1547633667,Renault,3695.6,3149.9,33.6,44.2,ok
+C,Ubicacion C (prueba),node/6049010039,Isuzu,5183.7,3414.4,33.6,79.1,ok
+C,Ubicacion C (prueba),node/10972943562,Autolote Vaquerano Import,2058.6,1560.4,33.6,24.0,ok
+C,Ubicacion C (prueba),node/13342256301,Mercedes-Benz El Salvador,1936.3,1340.9,33.6,34.6,ok

@@ -1,0 +1,4 @@
+﻿id,nombre,latitude,longitude,zona_knn,proporcion_vecinos_zona,dentro_area_estudio,concesionarios_500m,concesionarios_1km,concesionarios_2km,distancia_mas_cercano_m,distancia_tercer_vecino_m,establecimiento_mas_cercano,observacion
+A,Ubicacion A (prueba),13.7,-89.22,Zona 1,1.0,True,1,5,16,400.4,559.9,Nicekar,"Distancias en línea recta; conteos OSM, no demanda ni vialidad"
+B,Ubicacion B (prueba),13.685,-89.225,Zona 2,1.0,True,10,10,13,185.2,235.9,CrediQ Usados Seguros,"Distancias en línea recta; conteos OSM, no demanda ni vialidad"
+C,Ubicacion C (prueba),13.713,-89.225,Zona 1,1.0,True,2,2,9,76.7,1234.0,HS Import's,"Distancias en línea recta; conteos OSM, no demanda ni vialidad"

@@ -1,0 +1,9 @@
+{
+  "originales": 30,
+  "entrenamiento": 21,
+  "censo": "Censo BCR 2024 por distrito",
+  "distritos_asignados": 3,
+  "accesibilidad": "Red vial OSMnx: distancia por calles desde nodos cercanos, sin tráfico",
+  "rutas_validas": 63,
+  "competencia": "Establecimientos shop=car filtrados; no todos verificados ni del segmento de lujo"
+}

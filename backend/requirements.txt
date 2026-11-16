@@ -1,0 +1,21 @@
+# Análisis
+pandas>=2.2
+numpy>=1.26
+scikit-learn==1.9.1
+joblib>=1.3
+pyproj>=3.6
+shapely>=2.0
+geopandas>=1.0
+osmnx>=2.1,<3
+networkx>=3.2
+folium>=0.17
+# API
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+# Notebook y pruebas
+matplotlib>=3.8
+pillow>=10
+jupyter>=1.0
+pytest>=8.0
+httpx>=0.27

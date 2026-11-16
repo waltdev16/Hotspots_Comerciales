@@ -1,0 +1,7 @@
+﻿id,indicador,valor,unidad,fecha_dato,cobertura,tipo,fuente_id,nota
+I01,Población distrito de San Salvador,330543,personas,2024-05,Distrito de San Salvador,observado,F01,Población residente total; no equivale a compradores potenciales
+I02,Población municipio San Salvador Centro,673319,personas,2024-05,Municipio San Salvador Centro (5 distritos),derivado,F01,Suma de Ayutuxtepeque Cuscatancingo Mejicanos San Salvador y Ciudad Delgado; coincide con F04
+I03,Población departamento de San Salvador,1563371,personas,2024-05,Departamento de San Salvador (19 distritos),derivado,F01,Suma de los 19 distritos del archivo de censo
+I04,Hogares con vehículo departamento de San Salvador,175620,hogares,2024-05,Departamento de San Salvador,observado,F05,Dato del Censo 2024 reportado por prensa
+I05,Parque vehicular distrito de San Salvador,245466,vehículos,2025-12,Distrito de San Salvador,observado,F06,Registro del Observatorio Nacional de Seguridad Vial; incluye motocicletas
+I06,Parque vehicular nacional,2022324,vehículos,2025-12,El Salvador,observado,F06,Todos los tipos de vehículo

@@ -1,0 +1,4 @@
+﻿id,nombre,distrito,poblacion_2024,zona_knn,concesionarios_500m,concesionarios_1km,concesionarios_2km,distancia_mas_cercano_m,competidores_ruta_2km,competidor_vial_mas_cercano_m,competidores_con_ruta
+A,Ubicacion A (prueba),San Salvador,330543,Zona 1,1,5,16,400.4,10,811.9,21
+B,Ubicacion B (prueba),San Salvador,330543,Zona 2,10,10,13,185.2,10,172.0,21
+C,Ubicacion C (prueba),San Salvador,330543,Zona 1,2,2,9,76.7,6,231.1,21

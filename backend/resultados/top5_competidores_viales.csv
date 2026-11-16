@@ -1,0 +1,16 @@
+﻿id,ubicacion,osm_id,competidor,distancia_vial_m,distancia_recta_m,distancia_snap_origen_m,distancia_snap_destino_m,estado_ruta
+A,Ubicacion A (prueba),way/399773467,Nicekar,811.9,400.4,73.4,25.1,ok
+A,Ubicacion A (prueba),node/13342256301,Mercedes-Benz El Salvador,1264.6,969.0,73.4,34.6,ok
+A,Ubicacion A (prueba),way/400832495,Grupo Los Tres,1472.8,1328.3,73.4,93.0,ok
+A,Ubicacion A (prueba),way/396080830,Grupo Q Usados,1698.5,1621.6,73.4,59.0,ok
+A,Ubicacion A (prueba),node/1532055324,Grupo Q,1698.5,1666.6,73.4,20.0,ok
+B,Ubicacion B (prueba),way/396080830,Grupo Q Usados,172.0,200.1,59.3,59.0,ok
+B,Ubicacion B (prueba),node/1532055324,Grupo Q,172.0,235.9,59.3,20.0,ok
+B,Ubicacion B (prueba),way/395681947,Nissan,492.0,244.6,59.3,41.6,ok
+B,Ubicacion B (prueba),node/1547633667,Renault,492.0,261.5,59.3,44.2,ok
+B,Ubicacion B (prueba),way/395681946,Chrysler/Jeep/Dodge,1039.5,291.5,59.3,43.2,ok
+C,Ubicacion C (prueba),way/400002340,F & A Imports,231.1,252.7,33.6,25.9,ok
+C,Ubicacion C (prueba),way/400056527,HS Import's,646.1,76.7,33.6,43.5,ok
+C,Ubicacion C (prueba),way/398413970,Excel Usados,1927.4,1270.9,33.6,51.9,ok
+C,Ubicacion C (prueba),way/476562122,Kia Motors,1927.4,1234.0,33.6,55.0,ok
+C,Ubicacion C (prueba),node/13342256301,Mercedes-Benz El Salvador,1936.3,1340.9,33.6,34.6,ok

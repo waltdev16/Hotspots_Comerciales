@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+# Node
+frontend/node_modules/
+frontend/dist/
+# Claves
+.env
+.env.local
+*.tsbuildinfo

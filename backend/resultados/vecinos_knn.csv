@@ -1,0 +1,10 @@
+﻿id,candidato,osm_id,name,zona,distance_m,latitude,longitude
+A,Ubicacion A (prueba),way/399773467,Nicekar,Zona 1,400.4,13.6986037,-89.2165868
+A,Ubicacion A (prueba),way/398413970,Excel Usados,Zona 1,511.3,13.7040227,-89.2176759
+A,Ubicacion A (prueba),way/476562122,Kia Motors,Zona 1,559.9,13.7044948,-89.2176258
+B,Ubicacion B (prueba),way/400330636,CrediQ Usados Seguros,Zona 2,185.2,13.683621,-89.2259696
+B,Ubicacion B (prueba),way/396080830,Grupo Q Usados,Zona 2,200.1,13.6857066,-89.2232978
+B,Ubicacion B (prueba),node/1532055324,Grupo Q,Zona 2,235.9,13.6851975,-89.2228293
+C,Ubicacion C (prueba),way/400056527,HS Import's,Zona 1,76.7,13.7135011,-89.2245099
+C,Ubicacion C (prueba),way/400002340,F & A Imports,Zona 1,252.7,13.7107316,-89.2252677
+C,Ubicacion C (prueba),way/476562122,Kia Motors,Zona 1,1234.0,13.7044948,-89.2176258
