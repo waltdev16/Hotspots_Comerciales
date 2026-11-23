@@ -1,117 +1,107 @@
-# 🌎 Hotspots Comerciales
+#  📈 Linear Regression
 
-**Geospatial Analysis & Machine Learning | El Salvador**
+**Machine Learning & Predictive Analysis | Python**
 
-A geospatial analysis project developed to identify commercial clusters, analyze the distribution of automotive dealerships, and evaluate potential business locations using Machine Learning and geographic data.
-
-**[Live Demo](https://waltdev16.github.io/Hotspots_Comerciales/)**
+A Machine Learning project developed to analyze the relationship between study hours and academic performance using Linear Regression, data visualization, and predictive modeling.
 
 ---
 
 ## About the Project
 
-Hotspots Comerciales is an academic project focused on analyzing the geographic distribution of automotive dealerships in San Salvador, El Salvador.
+Linear Regression is an academic Machine Learning project focused on predicting student scores based on the number of hours studied.
 
-The project combines Machine Learning algorithms, open geographic data, and interactive visualizations to identify commercial concentrations and evaluate potential locations for a new automotive dealership.
+The project uses Python and Scikit-learn to train a regression model, analyze the relationship between variables, and generate predictions based on user input.
 
-By integrating geographic information, population data, and road accessibility, the project provides a data-driven approach to commercial location analysis.
+By incorporating data validation, model evaluation, and graphical visualization, the project demonstrates the fundamental principles of supervised Machine Learning.
 
 ## Project Goals
 
-- Identify geographic concentrations of existing automotive dealerships.
-- Apply clustering algorithms to analyze commercial distribution.
-- Classify proposed business locations using Machine Learning.
-- Evaluate proximity to competitors and road accessibility.
-- Integrate geographic and demographic information.
-- Present the results through an interactive dashboard.
+- Analyze the relationship between study hours and academic scores.
+- Implement a Linear Regression model using Scikit-learn.
+- Train the model using a dataset of 30 observations.
+- Predict academic scores based on user input.
+- Validate input values according to the dataset range.
+- Evaluate model performance using R² and Mean Squared Error (MSE).
+- Visualize the relationship between observed data and predicted values.
 
 ## Technologies Used
 
 | Technology | Purpose |
 |---|---|
-| Python | Data processing and analysis |
-| Pandas | Data cleaning and manipulation |
-| Scikit-learn | K-Means clustering and KNN classification |
-| GeoPandas | Geospatial data processing |
-| OpenStreetMap | Geographic data collection |
-| Overpass Turbo | Extraction of dealership locations |
-| OSMnx | Road network and accessibility analysis |
-| Folium | Interactive geographic maps |
-| Jupyter Notebook | Analysis and documentation |
-| HTML, CSS & JavaScript | Web dashboard and visualization |
+| Python | Data processing and predictive modeling |
+| Pandas | Dataset creation and manipulation |
+| Scikit-learn | Linear Regression and model evaluation |
+| Matplotlib | Data visualization and regression graphs |
+| Google Colab | Interactive development and execution |
 
 ## Features
 
-- **Geographic Clustering:** Identification of commercial concentration zones using K-Means.
-- **Location Classification:** Classification of proposed locations through K-Nearest Neighbors.
-- **Interactive Maps:** Geographic visualization of dealerships, clusters, and proposed locations.
-- **Competitor Analysis:** Evaluation of nearby dealerships and geographic distances.
-- **Road Accessibility:** Analysis of road network connections and travel distances.
-- **Demographic Integration:** Incorporation of population and district information.
-- **Location Comparison:** Evaluation of three proposed locations: A, B, and C.
-- **Interactive Dashboard:** Visualization of results through a web interface.
+- **Linear Regression:** Predicts academic scores based on study hours.
+- **Dataset Analysis:** Processes 30 observations containing study hours and scores.
+- **Interactive Prediction:** Allows users to enter study hours and receive a predicted score.
+- **Input Validation:** Identifies values outside the available dataset range.
+- **Model Evaluation:** Calculates R² and MSE to assess model performance.
+- **Data Visualization:** Displays observed data points and the fitted regression line.
 
 ## How It Works
 
-The project follows a geospatial analysis workflow:
+The project follows a supervised Machine Learning workflow:
 
-**1. Data Collection**
+**1. Data Preparation**
 
-Automotive dealership locations are obtained from OpenStreetMap using Overpass Turbo.
+A dataset containing 30 observations is organized into two variables: `HORAS_ESTUDIO` and `SCORE`.
 
-**2. Data Preparation**
+**2. Variable Selection**
 
-The dataset is reviewed and cleaned by checking missing values, geographic coordinates, and duplicate records.
+Study hours are defined as the independent variable (X), while academic scores represent the dependent variable (y).
 
-**3. K-Means Clustering**
+**3. Model Training**
 
-K-Means groups dealerships according to their geographic proximity, identifying areas with similar spatial characteristics.
+A Linear Regression model is trained using Scikit-learn to identify the relationship between the variables.
 
-**4. KNN Classification**
+**4. Model Evaluation**
 
-K-Nearest Neighbors classifies proposed business locations based on the geographic patterns identified in the training data.
+The model's performance is evaluated using the coefficient of determination (R²) and Mean Squared Error (MSE).
 
-**5. Geographic Analysis**
+**5. Input Validation**
 
-Population information, district boundaries, competitor proximity, and road accessibility are integrated into the analysis.
+The program verifies whether the entered study hours fall within the dataset's supported range.
 
-**6. Visualization**
+**6. Prediction and Visualization**
 
-The results are presented through interactive maps and a web dashboard.
+For valid inputs, the model generates a predicted score and displays a graph illustrating the relationship between study hours and academic performance.
 
 ## Development Process
 
-The project was developed through several stages:
+**Dataset Creation**
 
-**Research and Data Collection**
-
-Identification of public geographic datasets and collection of automotive dealership locations in San Salvador.
+Creation of a dataset containing 30 paired observations representing study hours and academic scores.
 
 **Exploratory Data Analysis**
 
-Dataset inspection, coordinate validation, and evaluation of available records.
+Inspection of the dataset and identification of the independent and dependent variables.
 
 **Machine Learning Implementation**
 
-Implementation and evaluation of K-Means and KNN using Scikit-learn.
+Implementation of Linear Regression using Scikit-learn.
 
-**Geospatial Integration**
+**Model Evaluation**
 
-Processing of geographic boundaries, demographic information, and road network data.
+Calculation of the slope, intercept, R², and MSE to analyze the regression model.
 
-**Location Evaluation**
+**Input Validation**
 
-Comparison of three hypothetical locations using geographic and accessibility indicators.
+Implementation of restrictions to prevent predictions outside the supported study-hours range.
 
-**Dashboard Development**
+**Results Visualization**
 
-Development of a web interface to explore the geographic analysis and visualize the results.
+Generation of a scatter plot and regression line using Matplotlib.
 
 ## Running the Project
 
 ### Requirements
 
-- Python 3.11 or newer
+- Python 3.11 or newer, with compatible dependencies
 - Git
 - A Python-compatible development environment
 
@@ -120,8 +110,8 @@ Development of a web interface to explore the geographic analysis and visualize 
 Clone the repository:
 
 ```bash
-git clone https://github.com/waltdev16/Hotspots.git
-cd Hotspots
+git clone https://github.com/USERNAME/Linear-Regression.git
+cd Linear-Regression
 ```
 
 Create a virtual environment:
@@ -139,73 +129,55 @@ Activate the environment on Windows:
 Install the required dependencies:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ### Execution
 
-Run the main analysis:
+Run the main program:
 
 ```bash
 python main.py
 ```
 
-Alternatively, open `hotspots.ipynb` in Jupyter Notebook or Visual Studio Code to explore the analysis step by step.
+Enter the number of study hours when prompted.
 
-The interactive dashboard is also available online:
+If the entered value falls within the dataset range, the program displays the predicted score and regression graph.
 
-**[Hotspots Comerciales — Live Demo](https://waltdev16.github.io/Hotspots/)**
+If the value exceeds the available range, an informative validation message is displayed.
 
 ## Project Structure
 
-The main components of the project are organized as follows:
-
 ```text
-Hotspots/
+Linear-Regression/
 │
 ├── main.py
-├── hotspots.ipynb
-├── mercado_integrado.py
+├── regresion_lineal_colab.ipynb
 ├── requirements.txt
-│
-├── datos_censo/
-│   └── poblacion_san_salvador_2024.csv
-│
-├── datos_geograficos/
-│   └── distritos_opamss.geojson
-│
-├── resultados/
-│   ├── centroides.csv
-│   ├── vecinos_knn.csv
-│   ├── auditoria_osm.csv
-│   ├── comparacion_mercado_integrada.csv
-│   ├── accesibilidad_competencia.csv
-│   └── mapa_mercado_integrado.html
-│
+├── regression.png
+├── .gitignore
 └── README.md
 ```
 
-*The structure represents the main analysis components; additional files may be included in the repository.*
-
 ## Preview
 
-Explore the interactive dashboard to visualize commercial clusters, geographic data, and the comparison of proposed locations.
+The following visualization illustrates the relationship between study hours and academic scores.
 
-**[Open Interactive Dashboard](https://waltdev16.github.io/Hotspots/)**
+![Linear Regression Visualization](regression.png)
 
-The analysis identified two geographic clusters and evaluated three proposed business locations.
+The scatter plot represents the observed dataset, while the regression line illustrates the model's estimated relationship between the variables.
 
-Based on the criteria considered, **Location C** was selected as the preferred alternative within the academic analysis.
+The project demonstrates how supervised Machine Learning can be used to analyze numerical data and generate predictions.
 
-The results are intended for educational and exploratory purposes and do not guarantee commercial profitability.
+**Note:** The dataset is illustrative, and the predictions are intended for educational purposes rather than validated academic performance forecasting.
 
 ## Authors
 
-- Author: **Walter Santos**
-- Co-authored-by: **Patricia Alvarado**
+- **Author:** Walter Santos
+- **Co-Author:** Patricia Alvarado
 
 ---
 
-**Hotspots Comerciales** · Geospatial Analysis · Machine Learning · Python
+**Linear Regression** · Machine Learning · Predictive Analysis · Python
 
 *¡Supérate! Fundación Frech.*
