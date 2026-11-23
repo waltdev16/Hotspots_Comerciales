@@ -4,7 +4,7 @@
 
 A geospatial analysis project developed to identify commercial clusters, analyze the distribution of automotive dealerships, and evaluate potential business locations using Machine Learning and geographic data.
 
-**[Live Demo](https://waltdev16.github.io/Hotspots/)**
+**[Live Demo](https://waltdev16.github.io/Hotspots_Comerciales/)**
 
 ---
 
