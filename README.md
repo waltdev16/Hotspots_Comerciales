@@ -201,13 +201,8 @@ The results are intended for educational and exploratory purposes and do not gua
 
 ## Authors
 
-**Walter Santos** — Author
-
-Project development, data analysis, Machine Learning implementation, and geospatial visualization.
-
-**Patricia Alvarado** — Co-author
-
-Project collaboration, research, and analysis.
+- Author: **Walter Santos**
+- Co-authored-by: **Patricia Alvarado**
 
 ---
 
